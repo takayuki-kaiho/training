@@ -45,6 +45,6 @@
 //}
 //
 //print(total)
-var subjects = ["国語":95, "数学":70, "英語":80]
-subjects["数学"] = 100
+var subjects = ["国語":95, "算数":70, "英語":80]
+subjects["算数"] = 100
 print(subjects)
